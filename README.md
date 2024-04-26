@@ -96,7 +96,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/Cochran7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/colecochran/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
@@ -109,13 +109,9 @@ export const personalData = {
   email: "colecochran405@gmail.com",
   phone: "+1(512)827-6219",
   address: "Austin, Texas",
-  github: "https://github.com/Cochran7388",
-  facebook: "https://www.facebook.com/ColeCochran.riyaz/",
+  github: "https://github.com/colecochran",
   linkedIn: "https://www.linkedin.com/in/Cole-Cochran-bd/",
-  twitter: "https://twitter.com/Cochran7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/Cole-Cochran",
-  leetcode: "https://leetcode.com/Cochran3812/",
-  devUsername: "Cochran7388",
+  devUsername: "colecochran",
   resume: "...",
 };
 ```
