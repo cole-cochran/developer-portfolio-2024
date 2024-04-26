@@ -3,13 +3,13 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Software Developer",
   description:
-    "My name is Cole Cochran. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+    "Howdy! My name is Cole Cochran. I am a DevOps Engineer turned Full Stack. I am a quick learner who is always looking to expand my skillsets. Learning and exploring new technologies drives my passion for problem-solving.",
   email: "colecochran405@gmail.com",
   phone: "+1(512)827-6219",
   address: "Austin, Texas",
-  github: "https://github.com/colecochran",
-  linkedIn: "https://www.linkedin.com/in/Cole-Cochran-bd/",
+  github: "https://github.com/cole-cochran",
+  linkedIn: "https://www.linkedin.com/in/cole-cochran-49983911a/",
   devUsername: "colecochran",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/146tspX44vi961bY4gLJK_JHb0BcaLX1h/view?usp=sharing",
 };

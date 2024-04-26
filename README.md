@@ -96,7 +96,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/colecochran/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/cole-cochran/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
@@ -109,8 +109,8 @@ export const personalData = {
   email: "colecochran405@gmail.com",
   phone: "+1(512)827-6219",
   address: "Austin, Texas",
-  github: "https://github.com/colecochran",
-  linkedIn: "https://www.linkedin.com/in/Cole-Cochran-bd/",
+  github: "https://github.com/cole-cochran",
+  linkedIn: "https://www.linkedin.com/in/cole-cochran-49983911a/",
   devUsername: "colecochran",
   resume: "...",
 };
