@@ -1,20 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Certificate, Full Stack Development",
+    duration: "August 2021 - December 2021",
+    institution: "University of Texas at Austin",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Associate of Applied Science, Graphic Design",
+    duration: "2010 - 2013",
+    institution: "Southern Nazarene University",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+];
