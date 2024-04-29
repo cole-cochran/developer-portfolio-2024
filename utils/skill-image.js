@@ -74,6 +74,7 @@ import wolframalpha from "/public/svg/skills/wolframalpha.svg";
 import wordpress from "/public/svg/skills/wordpress.svg";
 import ubuntu from "/public/svg/skills/ubuntu.svg";
 import terraform from "/public/svg/skills/terraform.svg";
+import circleci from "/public/svg/skills/circleci.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -230,6 +231,8 @@ export const skillsImage = (skill) => {
       return ubuntu;
     case "terraform":
       return terraform;
+    case "circleci":
+      return circleci;
     default:
       break;
   }
